@@ -13,3 +13,15 @@ One limitation is We do not know what drove the staff picks and spotlights, or t
 What are some other possible tables/graphs that we could create?
 We can display the relationship between staff picks, spotlight, and success. We can also display the success of certain parent and subcategories by international regions rather than individual countries.
 
+Green highlighted were more successful fundraising groups. 
+
+<kickstarter1.jpeg>
+
+Red highlighted failed. 
+
+<kickstarter2.jpeg>
+
+We can drill down on the failed ones to look for characteristics to avoid in future endeavours.
+
+
+

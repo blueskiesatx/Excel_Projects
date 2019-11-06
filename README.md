@@ -15,11 +15,11 @@ We can display the relationship between staff picks, spotlight, and success. We 
 
 Green highlighted were more successful fundraising groups. 
 
-<kickstarter1.jpeg>
+<kickstarter1.jpg>
 
 Red highlighted failed. 
 
-<kickstarter2.jpeg>
+<kickstarter2.jpg>
 
 We can drill down on the failed ones to look for characteristics to avoid in future endeavours.
 

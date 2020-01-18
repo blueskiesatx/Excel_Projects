@@ -22,6 +22,13 @@ Red highlighted failed.
 ![Excel_projects](kickstarter2.jpg)
 
 We can drill down on the failed ones to look for characteristics to avoid in future endeavours.
+![Excel_projects](picture1.jpg)
+![Excel_projects](picture2.jpg)
+![Excel_projects](picture3.jpg)
+![Excel_projects](picture4.jpg)
+
+
+In this data set, analyzed with Excel (version 2019): conditional formatting, data sort, pivot tables, and pivot charts.
 
 
 
